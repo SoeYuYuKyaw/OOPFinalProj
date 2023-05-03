@@ -19,12 +19,12 @@ Current balance: Current balance
 
 For example, if you add an income of $100, the file will contain the following:
 
-Income: 100.0
+Income: 100.0 
 Current balance: 100.0
 
 And if you add an expense of $70, the file will contain the following:
 
-Income: 100.0
+Income: 100.0 
 Current balance: 30.0
 
 
